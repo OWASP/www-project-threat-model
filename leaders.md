@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Avi Douglen](mailto:avi.douglen@owasp.org)
+* [Steven Wierckx](mailto:steven.wierckx@owasp.org)
