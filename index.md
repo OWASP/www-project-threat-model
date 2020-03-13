@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP OWASP Threat Model
+title: OWASP Threat Model
 tags: example-tag
 level: 1
 type: code/tool/documentation or other
