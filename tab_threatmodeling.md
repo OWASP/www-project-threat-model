@@ -1,8 +1,12 @@
 ---
-title: Threat Modeling
+
+title: ThreatModeling
+displaytext: Threat Modeling
 layout:  null
 tab: true
 order: 1
+tags: threatmodeling
+
 ---
 
 ## Overview
