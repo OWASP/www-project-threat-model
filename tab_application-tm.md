@@ -1,8 +1,12 @@
 ---
-title: Application Threat Modeling
+
+title: AppTM
+displaytext: Application Threat Modeling
 layout:  null
 tab: true
 order: 2
+tags: threatmodeling
+
 ---
 
 ## Application Threat Modeling 

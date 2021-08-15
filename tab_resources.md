@@ -1,8 +1,11 @@
 ---
+
 title: Resources
 layout:  null
 tab: true
 order: 3
+tags: threatmodeling
+
 ---
 
 The best resource to start learning about threat modeling or improving your existing process, is the [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/). This Manifesto was created by a group of leading threat modeling professionals. 
