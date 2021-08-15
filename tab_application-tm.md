@@ -1,6 +1,6 @@
 ---
 
-title: AppTM
+title: application-tm
 displaytext: Application Threat Modeling
 layout:  null
 tab: true
