@@ -13,14 +13,14 @@ This is a documentation project. We provide information on threat modeling techn
 
 Most threat model techniques answer one or more of the following questions:
 
-1. What are we building?
-2. What can go wrong?
-3. What are we going to do about that?
-4. Did we do a good enough job?
+* What are we working on?
+* What can go wrong?
+* What are we going to do about that?
+* Did we do a good enough job?
 
 This project will gather techniques, methodologies, tools and examples. We will group these using the four questions. This will allow people to easily find advice they can use.
 
-Example: if you are looking for different diagramming techniques you will want to look for all the techniques answering question 1.
+Example: if you are looking for different diagramming techniques you will want to look for all the techniques answering the question "What are we working on."
 
 ### Guiding principles:
 
