@@ -12,21 +12,21 @@ tags: threatmodeling
 ## Overview
 
 The term "Threat Modeling" has become quite popular. Microsoft has published their process
-and includes threat modeling as a key activity in their [Secure Development
-Lifecycle](https://www.microsoft.com/en-us/securityengineering/sdl)(SDL).
+and includes threat modeling as a key activity in their [Security Development
+Lifecycle (SDL)](https://www.microsoft.com/en-us/securityengineering/sdl).
 
 A threat model is essentially a structured representation of all the
 information that affects the security of an application. In essence, it
 is a view of the application and its environment through security glasses.
 
-Threat modeling is a process for capturing, organizing, and analyzing
+Threat modeling is a process for capturing, organizing and analyzing
 all of this information. Threat modeling enables informed
 decision-making about application security risk. In addition to
 producing a model, typical threat modeling efforts also produce a
 prioritized list of security improvements to the concept, requirements,
 design, or implementation.
 
-In 2020 a group of threat modeling practitioners, researchers and authors got together to write the [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/) in order to "...share a distilled version of our collective threat modeling knowledge in a way that should inform, educate, and inspire other practitioners to adopt threat modeling as well as improve security and privacy during development". The Manifesto contains values and principles connected to the practice and adoption of Threat Modeling, as well as identified patterns and anti-patterns to facilitate it.
+In 2020, a group of threat modeling practitioners, researchers and authors got together to write the [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/) in order to "...share a distilled version of our collective threat modeling knowledge in a way that should inform, educate, and inspire other practitioners to adopt threat modeling as well as improve security and privacy during development". The Manifesto contains values and principles connected to the practice and adoption of Threat Modeling, as well as identified patterns and anti-patterns to facilitate it.
 
 ## Objectives of Threat Modeling
 
