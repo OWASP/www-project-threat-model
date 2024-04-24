@@ -17,6 +17,7 @@ The best resource to start learning about threat modeling or improving your exis
   - [OWASP PyTM](https://owasp.org/www-project-pytm/)
   - [Threatspec](https://threatspec.org/)
   - [OWASP Ontology Driven Threat Modeling](https://owasp.org/www-project-ontology-driven-threat-modeling-framework/)
+  - [OWASP AI-ThreatMaster](https://owasp.org/www-project-ai-threatmaster/)
 
 
 ## Additional References
