@@ -96,6 +96,6 @@ and justifies them with either sub-claims or evidence.
 
 ## Threat Modeling Tooling
 
-There is a wide variety of tools that can support threat modeling, including [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/), [OWASP pytm](https://owasp.org/www-project-pytm/), and [OWASP Threatspec](https://owasp.org/www-project-threatspec/). 
+There is a wide variety of tools that can support threat modeling, including [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/), [OWASP pytm](https://owasp.org/www-project-pytm/), [OWASP Threatspec](https://owasp.org/www-project-threatspec/) and [OWASP AI-ThreatMaster](https://owasp.org/www-project-ai-threatmaster/). 
 
 There are also a number of other tools available, both Open Source and commercial.
