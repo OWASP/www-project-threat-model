@@ -12,6 +12,7 @@ The best resource to start learning about threat modeling or improving your exis
 
 ## Related OWASP Projects 
 
+  - [OWASP Cornucopia](https://owasp.org/www-project-cornucopia/)
   - [OWASP Threat Model Cookbook](https://owasp.org/www-project-threat-model-cookbook/)
   - [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
   - [OWASP PyTM](https://owasp.org/www-project-pytm/)
