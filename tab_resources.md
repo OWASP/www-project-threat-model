@@ -10,17 +10,17 @@ tags: threatmodeling
 
 The best resource to start learning about threat modeling or improving your existing process, is the [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/). This Manifesto was created by a group of leading threat modeling professionals. 
 
-## Related OWASP Projects 
+## Related OWASP Projects (A-Z)
 
-  - [OWASP Threat Model Cookbook](https://owasp.org/www-project-threat-model-cookbook/)
-  - [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
-  - [OWASP PyTM](https://owasp.org/www-project-pytm/)
-  - [Threatspec](https://threatspec.org/)
-  - [OWASP Ontology Driven Threat Modeling](https://owasp.org/www-project-ontology-driven-threat-modeling-framework/)
   - [OWASP Cornucopia](https://owasp.org/www-project-cornucopia/)
+  - [OWASP Ontology Driven Threat Modeling](https://owasp.org/www-project-ontology-driven-threat-modeling-framework/)
+  - [OWASP PyTM](https://owasp.org/www-project-pytm/)
+  - [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
+  - [OWASP Threat Model Cookbook](https://owasp.org/www-project-threat-model-cookbook/)
+  - [OWASP Threat Modelling Guide](https://owasp.org/www-project-threat-modelling-guide/)
   - [OWASP Threat Modelling Library](https://owasp.org/www-project-threat-model-library/)
   - [OWASP Threat Modeling Playbook](https://owasp.org/www-project-threat-modeling-playbook/)
-  - [OWASP Threat Modelling Guide](https://owasp.org/www-project-threat-modelling-guide/)
+  - 
 
 ## Additional References
   
@@ -32,3 +32,4 @@ The best resource to start learning about threat modeling or improving your exis
   - [SAFECode - "Tactical Threat Modeling"](https://safecode.org/tactical-threat-modeling/)
   - [OWASP Cornucopia Website](https://cornucopia.owasp.org)
   - [Copi - The OWASP Game Engine for EoP related games](https://copi.owasp.org)
+  - [Threatspec](https://threatspec.org/)
