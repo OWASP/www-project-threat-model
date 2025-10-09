@@ -18,6 +18,9 @@ The best resource to start learning about threat modeling or improving your exis
   - [Threatspec](https://threatspec.org/)
   - [OWASP Ontology Driven Threat Modeling](https://owasp.org/www-project-ontology-driven-threat-modeling-framework/)
   - [OWASP Cornucopia](https://cornucopia.owasp.org)
+  - [OWASP Threat Modelling Library](https://owasp.org/www-project-threat-model-library/)
+  - [OWASP Threat Modeling Playbook](https://owasp.org/www-project-threat-modeling-playbook/)
+  - [OWASP Threat Modelling Guide](https://owasp.org/www-project-threat-modelling-guide/)
 
 ## Additional References
   
