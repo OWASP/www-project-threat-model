@@ -47,7 +47,7 @@ The inclusion of threat modeling in the SDLC can help
 
 ### 4 Questions
 
-Most threat model methodologies answer one or more of the following questions in the technical steps which they follow:
+The Threat Modeling Manifesto has adopted the [4 Questions Framework](https://github.com/adamshostack/4QuestionFrame) as the seminal framework to direct threat modeling efforts. Most threat model methodologies answer one or more of the following questions in the technical steps which they follow:
 
 #### What are we building?
 
@@ -66,17 +66,13 @@ question, including brainstorming or using a structure to help think it through.
 
 #### What are we going to do about that?
 
-In this phase you turn your findings into specific actions. See [Threat_Modeling_Outputs](Threat_Modeling_Outputs)
+In this phase you turn your findings into specific actions.
 
 #### Did we do a good enough job?
 
-Finally, carry out a retrospective activity over the work you have done to check quality, feasibility, progress, and/or planning.
+Finally, carry out a retrospective activity over the work you have done to check quality, feasibility, progress, and/or planning. Review needed changes to your process, your methodology, and how you communicate results to your stakeholders.
 
 ### Process
-
-The technical steps in threat modeling involve answering questions:
-- What are we working on - What can go wrong - What will we do with the findings
-- Did we do a good job? The work to answer these questions is embedded in some sort of process, ranging from incredibly informal Kanban with Post-its on the wall to strictly structured waterfalls.
 
 The effort, work, and timeframes spent on threat modeling relate to the process in which engineering is happening and products/services are
 delivered. The idea that threat modeling is waterfall or ‘heavyweight’ is based on threat modeling approaches from the early 2000s. Modern
@@ -102,5 +98,3 @@ that participants can rapidly change based on identified threats is a high-retur
 meticulously transferred to a high-quality archival representation designed for review and presentation. Those models are useful for
 documenting what’s been decided and sharing those decisions widely within an organization. These two activities are both threat modeling,
 yet quite different.
-
-#### Validating Assumptions
