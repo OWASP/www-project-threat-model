@@ -9,7 +9,7 @@ tags: threatmodeling
 
 ---
 
-## Application Threat Modeling 
+## Application Threat Modeling
 
 Threat modeling works to identify, communicate, and understand threats and mitigations within the context of protecting something of value.
 
@@ -22,7 +22,7 @@ preferably early - so that the findings can inform the design.
 
 Most of the time, a threat model includes:
 
-- A description / design / model of what you’re worried about 
+- A description / design / model of what you’re worried about
 - A list of assumptions that can be checked or challenged in the future as the threat landscape changes
 - A list of potential threats to the system
 - A list of actions to be taken for each threat
@@ -74,7 +74,7 @@ Finally, carry out a retrospective activity over the work you have done to check
 
 ### Process
 
-The technical steps in threat modeling involve answering questions: 
+The technical steps in threat modeling involve answering questions:
 - What are we working on - What can go wrong - What will we do with the findings
 - Did we do a good job? The work to answer these questions is embedded in some sort of process, ranging from incredibly informal Kanban with Post-its on the wall to strictly structured waterfalls.
 
@@ -104,4 +104,3 @@ documenting what’s been decided and sharing those decisions widely within an o
 yet quite different.
 
 #### Validating Assumptions
-
