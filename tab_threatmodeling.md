@@ -11,9 +11,13 @@ tags: threatmodeling
 
 ## Overview
 
-The term "Threat Modeling" has become quite popular. Microsoft has published their process
-and includes threat modeling as a key activity in their [Security Development
-Lifecycle (SDL)](https://www.microsoft.com/en-us/securityengineering/sdl).
+The term "Threat Modeling" has become quite popular. The "[State Of Threat Modeling Report](https://www.threatmodelingconnect.com/state-of-threat-modeling-2024-25)" points at a robust and improving practice across companies and enterprises of all sizes, embracing a growing number of tools and methodologies.
+
+In 2020, a group of threat modeling practitioners, researchers and authors got together to write the [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/) in order to "...share a distilled version of our collective threat modeling knowledge in a way that should inform, educate, and inspire other practitioners to adopt threat modeling as well as improve security and privacy during development". The Manifesto contains values and principles connected to the practice and adoption of Threat Modeling, as well as identified patterns and anti-patterns to facilitate it.
+
+One of the outputs of the Manifesto was this consensus-driven definition:
+
+"Threat modeling is analyzing representations of a system to highlight concerns about security and privacy characteristics."
 
 A threat model is essentially a structured representation of all the
 information that affects the security of an application. In essence, it
@@ -23,31 +27,27 @@ Threat modeling is a process for capturing, organizing and analyzing
 all of this information. Threat modeling enables informed
 decision-making about application security risk. In addition to
 producing a model, typical threat modeling efforts also produce a
-prioritized list of security improvements to the concept, requirements,
-design, or implementation.
+prioritized list of security threats identified, and possibly mitigations to the risk they create.
 
-In 2020, a group of threat modeling practitioners, researchers and authors got together to write the [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/) in order to "...share a distilled version of our collective threat modeling knowledge in a way that should inform, educate, and inspire other practitioners to adopt threat modeling as well as improve security and privacy during development". The Manifesto contains values and principles connected to the practice and adoption of Threat Modeling, as well as identified patterns and anti-patterns to facilitate it.
+## Why Threat Model?
 
-## Objectives of Threat Modeling
-
-Threat modeling is a family of activities for improving security by
-identifying threats, and then defining
-countermeasures to prevent, or mitigate the effects of, threats to the
-system. A threat is a potential or actual undesirable event that may be
-malicious (such as DoS attack) or incidental (failure of a Storage
-Device). Threat modeling is a planned activity for identifying and
-assessing application threats and vulnerabilities.
+Threat modeling embodies a family of activities for improving security by
+identifying threats, understanding their criticality, and then defining
+countermeasures to prevent, or mitigate the effects of these threats to the
+system, functionality and user. A threat is a potential or actual undesirable event that may be malicious (such as CSRF attack) or incidental (thunderstorm knocking the power down). Threat modeling is a planned activity for identifying and assessing application threats and vulnerabilities. It can also encompass fields related to Security, like Safety and Privacy.
 
 ## Threat Modeling Across the Lifecycle
 
 Threat modeling is best applied continuously throughout a software
-development project. The process is essentially the same at different
+development project - at whatever resolution may be practical for that specific project.
+
+The process is essentially the same at different
 levels of abstraction, although the information gets more and more
 granular throughout the lifecycle. Ideally, a high-level threat model
-should be defined in the concept or planning phase, and then refined
+should be defined in the ideation or design phase, and then refined
 throughout the lifecycle. As more details are added to the system, new
-attack vectors are created and exposed. The ongoing threat modeling
-process should examine, diagnose, and address these threats.
+attack vectors may be created and exposed. The ongoing threat modeling
+process examines, diagnoses, and addresses these threats.
 
 Note that it is a natural part of refining a system for new threats to
 be exposed. For example, when you select a particular technology -- such
@@ -56,46 +56,15 @@ new threats that are created by that choice. Even implementation choices
 such as using regular expressions for validation introduce potential new
 threats to deal with.
 
-## Threat Modeling - Four Question Framework
-
-For a threat to an application to exist, there must be a combination of
-the following where the combined likelihood and impact are important
-enough to do something about. Following is the four question framework
-that helps organize threat modeling:
-
-  - What are we working on?
-  - What can go wrong?
-  - What are we going to do about it?
-  - Did we do a good job?
-
-There are many methods or techniques which can be used to answer each of these questions.
-
-There is no "right" way to evaluate the search space of possible
-threats. But there are better or worse ways. Attempting to evaluate all
-the possible combinations of threat agent, attack, vulnerability, and
-impact is often a waste of time and effort.
-
-The basic threat modeling process consists of the following
-steps. The process of exploring the search space can be iterative and refined. It is common to mistakenly think you should filter for "the most important threats" early, but how can you do that before you've found them?
-
-  - **Assessment Scope** - The first step is to ask what are we working on? This might be as small as a sprint, or as large as a whole system.
-  - **Identify what can go wrong** - This can be as simple as a brainstorm, or as structured as using STRIDE, Kill Chains, or Attack Trees.
-  - **Identify countermeasures or manage risk** - Decide what you're going to do about each threat. That might be to implement a mitigation, or to apply the accept/transfer/eliminate approaches of risk management.
-  - **Assess your work** - Did you do a good enough job for the system at hand?
+Threat modeling can be divided into two closely related activities: system modeling and threat elicitation. It is very important that all participants in a threat model be able to recognize the system under analysis in whatever representation (diagram, textual, etc.) is chosen, as that recognition will be the basis of the threat elicitation phase.
 
 ## Benefits
 
-Done right, threat modeling provides a clear "line of sight" across a
-project that justifies security efforts. The threat model allows
-security decisions to be made rationally, with all the information on
-the table. The alternative is to make knee-jerk security decisions with
-no support. The threat modeling process naturally produces an assurance
-argument that can be used to explain and defend the security of an
-application. An assurance argument starts with a few high level claims,
-and justifies them with either sub-claims or evidence.
+Done right, threat modeling provides visibility across a
+project that helps justify and support security efforts. The threat model allows security decisions to be made rationally, with all the information on
+the table. The alternative is to make ad-hoc security decisions with
+no support in real data, scenarios and outcomes. The threat modeling process naturally produces an assurance argument, or artifact, that can be used to explain and defend the security of an application. An assurance argument starts with a few high level claims, and justifies them with either sub-claims or evidence.
 
-## Threat Modeling Tooling
+## Where to go from here?
 
-There is a wide variety of tools that can support threat modeling, including [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/), [OWASP pytm](https://owasp.org/www-project-pytm/), and [OWASP Threatspec](https://owasp.org/www-project-threatspec/). 
-
-There are also a number of other tools available, both Open Source and commercial.
+Check the [Resources tab](https://owasp.org/www-project-threat-model/#div-resources) for more extensive documentation, books and tools to start you on your journey!
