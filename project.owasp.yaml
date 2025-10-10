@@ -1,0 +1,22 @@
+audience:
+  - builder
+leaders:
+  - name: Avi Douglen
+    email: avi.douglen@owasp.org
+    github: avidouglen
+  - name: Steven Wierckx
+    email: steven.wierckx@owasp.org
+    github: swierckx
+level: 2
+name: OWASP Threat Modeling Project
+pitch: Central repository of threat modeling information, techniques, and methodologies
+repositories:
+  - name: www-project-threat-model
+    url: https://github.com/OWASP/www-project-threat-model
+    description: OWASP Foundation Web Repository
+tags:
+  - threatmodeling
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-threat-model
