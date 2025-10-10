@@ -39,6 +39,7 @@ The best resource to start learning about threat modeling or improving your exis
   - [Microsoft's Security Development Process](https://www.microsoft.com/en-us/securityengineering/sdl)
   - [Microsoft Threat Modeling & Tool](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling)
   - [SAFECode - "Tactical Threat Modeling"](https://safecode.org/tactical-threat-modeling/)
+  - [Matt Coles & Izar Tarandach - "Threat Modeling: A Practical Guide For Development Teams"](https://threatmodeling.dev)
   - [OWASP Cornucopia Website](https://cornucopia.owasp.org)
   - [Copi - The OWASP Game Engine for EoP related games](https://copi.owasp.org)
   - [Threatspec](https://threatspec.org/)
