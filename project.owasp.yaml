@@ -1,0 +1,31 @@
+audience:
+  - builder
+leaders:
+  - name: Matt Coles
+    email: matthew.coles@owasp.org
+    github: colesmj-owasp
+  - name: Avi Douglen
+    email: avi.douglen@owasp.org
+    github: avidouglen
+  - name: Brook Schoenfield
+    email: brook.schoenfield@owasp.org
+    github: bschoenfield
+  - name: Adam Shostack
+    email: adam.shostack@owasp.org
+    github: adamshostack
+  - name: John Taylor
+    email: john.taylor@owasp.org
+    github: jt-infosec
+level: 2
+name: OWASP Threat Modeling Project
+pitch: Central repository of threat modeling information, techniques, and methodologies
+repositories:
+  - name: www-project-threat-model
+    url: https://github.com/OWASP/www-project-threat-model
+    description: OWASP Foundation Web Repository
+tags:
+  - threat-modeling
+  - threat-model
+  - documentation-project
+type: documentation
+website: https://owasp.org/www-project-threat-model
