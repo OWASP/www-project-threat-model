@@ -20,12 +20,12 @@ level: 2
 name: OWASP Threat Modeling Project
 pitch: Central repository of threat modeling information, techniques, and methodologies
 repositories:
-  - name: www-project-threat-model
-    url: https://github.com/OWASP/www-project-threat-model
+  - name: www-project-threat-modeling
+    url: https://github.com/OWASP/www-project-threat-modeling
     description: OWASP Foundation Web Repository
 tags:
   - threat-modeling
   - threat-model
   - documentation-project
 type: documentation
-website: https://owasp.org/www-project-threat-model
+website: https://owasp.org/www-project-threat-modeling
