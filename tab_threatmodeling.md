@@ -67,4 +67,4 @@ no support in real data, scenarios and outcomes. The threat modeling process nat
 
 ## Where to go from here?
 
-Check the [Resources tab](https://owasp.org/www-project-threat-model/#div-resources) for more extensive documentation, books and tools to start you on your journey!
+Check the [Resources tab](https://owasp.org/www-project-threat-modeling/#div-resources) for more extensive documentation, books and tools to start you on your journey!
